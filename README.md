@@ -24,7 +24,7 @@ Laravel SailとDockerを使って、Tutorial 9〜10 のハンズオンで使う�
 - Laravel学習用の専用ディレクトリを作成し、さらに今回のハンズオン用のサブディレクトリを作成することで、Laravelプロジェクトが増えても管理がしやすいようなディレクトリ構成にした
 - 10/21に公表されたPHPの脆弱性に伴い、PHPが修正後のバージョン(8.5.12)であることを確認した
 
-## 動作確認のスクショ
+## 動作確認のスクリーンショット
 1. 「`http://localhost`」にアクセスした時のLaravelウェルカムページ
 ![Laravelウェルカムページ](CheckImage_Laravel_welcome_page.png)
 2. 「`http://localhost:8080`」にアクセスした時のphpMyAdmin画面
